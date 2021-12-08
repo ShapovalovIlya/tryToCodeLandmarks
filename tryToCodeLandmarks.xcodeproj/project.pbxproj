@@ -101,7 +101,6 @@
 		866B3273274514C50059203A /* Categories */ = {
 			isa = PBXGroup;
 			children = (
-				866B3274274514F10059203A /* CategoryHome.swift */,
 			);
 			path = Categories;
 			sourceTree = "<group>";
@@ -160,12 +159,13 @@
 			children = (
 				866B3273274514C50059203A /* Categories */,
 				86D0B9F3273F065B0099C003 /* ContentView.swift */,
+				866B3274274514F10059203A /* CategoryHome.swift */,
+				86A6EDB02745200900A5EF9B /* CategoryRow.swift */,
+				86B37AD82761444F00F71DCE /* CategoryItem.swift */,
 				86AEAC652743FBD300EE2899 /* Hikes */,
 				86F8669B27431EA500693F1E /* Badges */,
 				864E2D7A27414EAE008FD08E /* Landmarks */,
 				864E2D7B27414EEB008FD08E /* Helper */,
-				86A6EDB02745200900A5EF9B /* CategoryRow.swift */,
-				86B37AD82761444F00F71DCE /* CategoryItem.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
